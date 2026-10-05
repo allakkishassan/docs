@@ -44,14 +44,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "",
         "href": "mailto:support@mintlify.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "إلى المنصة ",
+      "href": "https://baseera.cz"
     }
   },
   "contextual": {
