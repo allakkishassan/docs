@@ -45,8 +45,8 @@
   "navbar": {
     "links": [
       {
-        "label": "",
-        "href": "mailto:support@mintlify.com"
+        "href": "mailto:support@baseera.cz",
+        "label": "راسل بصيرة"
       }
     ],
     "primary": {
