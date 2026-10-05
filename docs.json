@@ -1,13 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Baseera-Docs",
+  "name": "مساعد بصيرة",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/Screenshot2026-08-21at22.26.30.png",
+    "dark": "/favicon.svg"
+  },
   "navigation": {
     "pages": [
       {
@@ -34,8 +37,9 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/images/Gemini_Generated_Image_co8n0oco8n0oco8n(1).jpeg",
+    "dark": "/images/Gemini_Generated_Image_co8n0oco8n0oco8n(1).jpeg",
+    "href": "https://www.baseera.cz"
   },
   "navbar": {
     "links": [
