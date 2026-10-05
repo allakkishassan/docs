@@ -15,7 +15,7 @@
   "navigation": {
     "pages": [
       {
-        "group": "Getting Started",
+        "group": "هنا البداية",
         "pages": [
           "index",
           "quickstart"
@@ -25,12 +25,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "الوثائق",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Blog",
+          "anchor": "المقالات",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
         }
