@@ -80,5 +80,11 @@
   "appearance": {
     "default": "light",
     "strict": true
+  },
+  "styling": {
+    "eyebrows": "breadcrumbs"
+  },
+  "metadata": {
+    "timestamp": true
   }
 }
