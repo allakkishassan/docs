@@ -4,13 +4,13 @@
   "name": "مساعد بصيرة",
   "language": "ar",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#4B5349",
+    "light": "#394034",
+    "dark": "#394034"
   },
   "favicon": {
     "light": "/images/Screenshot2026-08-21at22.26.30.png",
-    "dark": "/favicon.svg"
+    "dark": "/images/Screenshot2026-08-21at22.26.30.png"
   },
   "navigation": {
     "pages": [
@@ -38,21 +38,25 @@
     }
   },
   "logo": {
-    "light": "/images/Gemini_Generated_Image_co8n0oco8n0oco8n(1).jpeg",
-    "dark": "/images/Gemini_Generated_Image_co8n0oco8n0oco8n(1).jpeg",
+    "light": "/images/baseera-logo-horizontal.png",
+    "dark": "/images/baseera-logo-horizontal.png",
     "href": "https://www.baseera.cz"
   },
   "navbar": {
     "links": [
       {
         "href": "mailto:support@baseera.cz",
-        "label": "راسل بصيرة"
+        "label": "راسلنا"
+      },
+      {
+        "href": "https://baseera.cz/",
+        "label": "الموقع"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "إلى المنصة ",
-      "href": "https://baseera.cz"
+      "label": "تسجيل الدخول",
+      "href": "https://baseera.cz/portal?lang=ar"
     }
   },
   "contextual": {
@@ -86,5 +90,11 @@
   },
   "metadata": {
     "timestamp": true
+  },
+  "background": {
+    "color": {
+      "light": "#F6F4F1",
+      "dark": "#F6F4F1"
+    }
   }
 }
